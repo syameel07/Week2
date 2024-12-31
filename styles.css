@@ -581,7 +581,12 @@ h2 {
     background-color: #FFFFFF;
     padding: 16px;
     border-radius: 16px;
+}
 
+.recommendation-inner-container:hover {
+    background-color: #F4D867;
+    transition: 0.5s;
+    filter: drop-shadow(0 0 4mm black);
 }
 
 .recommendation-image-container {
